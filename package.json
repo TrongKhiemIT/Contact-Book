@@ -1,0 +1,16 @@
+{
+  "name": "b1906692",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TrongKhiem",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "expess": "^0.0.1-security",
+    "mongoose": "^6.2.3"
+  }
+}
